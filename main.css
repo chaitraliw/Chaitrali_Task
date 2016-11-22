@@ -1,0 +1,31 @@
+.color {
+	background-color: #40098c;
+	color: #ffffff;
+}
+
+.width20 {
+	width: 10%;
+    margin: 10px;
+    padding-right: 10px;
+    border-right: 2px solid #ffffff;
+}
+.nav>li>a {
+
+    padding: 10px 10px !important;
+    }
+
+ .search{
+ 	    margin-top: 7px;
+       margin-left: 60px;
+
+ }
+ 
+ .sea{
+ 	width: inherit;
+ }
+ .help-block {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: #737373;
+}
